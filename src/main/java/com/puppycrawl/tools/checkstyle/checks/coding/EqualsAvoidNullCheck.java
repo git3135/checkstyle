@@ -52,7 +52,7 @@ import com.puppycrawl.tools.checkstyle.api.TokenTypes;
  *    &quot;My_Sweet_String&quot;.equals(nullString);
  *  </code>
  * </pre>
- * 
+ *
  *
  * <p>
  * Limitations: If the equals method is overridden or
